@@ -260,6 +260,8 @@ DEPENDENCIES
   github-pages (~> 212)
   jekyll (~> 3.9.0)
   jekyll-feed (~> 0.15.1)
+  jekyll-remote-theme
+  jekyll-theme-midnight
 
 BUNDLED WITH
    2.2.11
